@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.Form1.resources
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.Properties.Resources.resources
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\bin\Debug\fibonacciForm.exe.config
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\bin\Debug\fibonacciForm.exe
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\bin\Debug\fibonacciForm.pdb
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.exe
+C:\Users\User\source\repos\zaawansowane programowanie obiektowe\fibonacciForm\fibonacciForm\obj\Debug\fibonacciForm.pdb
