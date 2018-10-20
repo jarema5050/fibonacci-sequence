@@ -71,7 +71,7 @@ namespace fibonacciForm
             {
                 MessageBox.Show("Insert data!");
             }
-            else if(anmin1>=an)
+            else if(anmin1>an)
             {
                 MessageBox.Show("A(n) has to be greater or equal than A(n-1).");
                 textBox1.Text = "";
